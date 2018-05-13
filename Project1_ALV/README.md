@@ -1,5 +1,5 @@
 # Project1-ALU
-Auther:Yan Wang
+Auther:Yan Wang <br>
 Data:2018/5/12
 
 # Introduction
