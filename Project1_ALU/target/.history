@@ -1,0 +1,9 @@
+test:runMain solutions.Launcher ALU
+test:runMain solutions.Launcher MUL
+test:runMain solutions.Launcher Adder
+test:runMain solutions.Launcher MUL
+exit
+test:runMain solutions.Launcher MUL
+test:runMain solutions.Launcher ALU
+exit
+test:runMain solutions.Launcher ALU

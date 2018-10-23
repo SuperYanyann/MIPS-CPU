@@ -13,3 +13,5 @@ the simple 32bits ALU is designed not by the operators like * , / , - ,but a Add
 for example the MUL is achieved by Booth Encoding and the Adder .<br>
 for achievement of Booth Encoding,I learn from [here](https://github.com/were/Chisel-Adder).<br>
 
+### Project2-MulttiCycle
+This is a MulttiCycle MIPS CPU by FSM.
